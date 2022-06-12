@@ -1,0 +1,29 @@
+.Navbar{
+    height: 50px;
+        width: 100%;
+        background-color: #1877f2;
+        display: flex;
+        align-items: center;
+        position: sticky;
+        top: 0;
+        justify-content: space-around;
+}
+
+.submitForm{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.descInput{
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+.submitButton{
+     width: 100px;
+}
+

@@ -1,0 +1,16 @@
+.login {
+    height: 100vh;
+    background-color: #f0f2f5;
+    margin: auto;
+}
+
+.loginBox{
+    height: 300px;
+    width: 200px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
